@@ -1,10 +1,24 @@
-"golfbet.online": {
-    "backgroundImage": "https://your-site.com/bg.jpg",
-    "title": "عنوان سایت شما",
-    "bonusText": "متن هدیه شما",
-    "urgencyText": "متن فوریت شما",
-    "enterSiteLink": "https://your-affiliate-link.com",
-    "downloadAppLink": "https://your-app-download-link.com",
-    "showDownloadButton": true,
-    "showBackgroundImage": true
+{
+    "default": {
+        "title": "پیشنهاد ویژه برای شما",
+        "bonusText": "🎁 تا سه برابر شارژ هدیه بگیرید!",
+        "urgencyText": "این پیشنهاد فقط تا پایان امروز فعال است",
+        "enterButtonText": "برای ورود کلیک کنید",
+        "downloadButtonText": "دانلود اپلیکیشن",
+        "enterButtonLink": "https://example.com/signup",
+        "downloadButtonLink": "https://example.com/app.apk",
+        "backgroundImage": "https://example.com/bg.jpg"
+    },
+    "domains": {
+        "jetbet90.com": {
+            "title": "پیشنهاد ویژه برای شما",
+            "bonusText": "🎁 تا سه برابر شارژ هدیه بگیرید!",
+            "urgencyText": "این پیشنهاد فقط تا پایان امروز فعال است",
+            "enterButtonText": "برای ورود کلیک کنید",
+            "downloadButtonText": "دانلود اپلیکیشن",
+            "enterButtonLink": "https://jetbet90.com/V1L3VzZXIvc2lnbnVw",
+            "downloadButtonLink": "https://enfej.online/crash-game.apk",
+            "backgroundImage": "https://enfej.online/bg.jpg"
+        }
+    }
 }
