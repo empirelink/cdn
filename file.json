@@ -1,15 +1,10 @@
-"sites": {
-    "site1.com": {
-        "backgroundImage": "https://site1.com/bg.jpg",
-        "title": "پیشنهاد ویژه برای شما",
-        "bonusText": "🎁 تا سه برابر شارژ هدیه بگیرید!",
-        "urgencyText": "این پیشنهاد فقط تا پایان امروز فعال است",
-        "enterSiteLink": "https://site1.com/affiliate-link",
-        "downloadAppLink": "https://site1.com/app.apk",
-        "showDownloadButton": true,
-        "showBackgroundImage": true
-    },
-    "site2.com": {
-        // ... configuration for site2
-    }
+"golfbet.online": {
+    "backgroundImage": "https://your-site.com/bg.jpg",
+    "title": "عنوان سایت شما",
+    "bonusText": "متن هدیه شما",
+    "urgencyText": "متن فوریت شما",
+    "enterSiteLink": "https://your-affiliate-link.com",
+    "downloadAppLink": "https://your-app-download-link.com",
+    "showDownloadButton": true,
+    "showBackgroundImage": true
 }
